@@ -1,0 +1,15 @@
+{
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "2_jpg"
+		}
+	],
+	"resources": [
+		{
+			"name": "2_jpg",
+			"type": "image",
+			"url": "3d/2.jpg"
+		}
+	]
+}
